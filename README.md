@@ -1,5 +1,10 @@
 # random-bg-color-js
 
+**Overview**
+
+How to change random background color in CSS? Ever struck with this question, well if you have then here is your solution. Random BG Color JS can randomly change your css background from a predefined array of background colors. All you need to follow the below steps and you are god to go.
+
+
 **Usage:**
 
 
